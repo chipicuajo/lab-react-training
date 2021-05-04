@@ -1,7 +1,7 @@
 import React from 'react'
 
 function IdCard(props){
-    console.log(props)
+
     return(
         <div>
             <img src={props.picture} alt={props.firstName}/>

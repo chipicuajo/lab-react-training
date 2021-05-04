@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Greetings(props){
-    console.log(props)
+
     let greetings = {
         de: 'Hallo',
         en: 'Hello',
